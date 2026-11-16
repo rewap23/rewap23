@@ -1,4 +1,9 @@
-## Hi there 👋
+## About Me
+
+- Hi, I'm Rewa! I'm a 2nd year computer engineering and applied math student.
+- I enjoy learning and building projects about GPUs and the intersection of software and hardware engineering
+- Languages: Python, C, C++/CUDA, Verilog
+- Interests: GPU design & verification, computer architecture, inference systems
 
 <!--
 **rewap23/rewap23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
